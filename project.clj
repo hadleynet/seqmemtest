@@ -7,5 +7,6 @@
     [org.clojure/clojure "1.4.0"]
     [edu.columbia.stat.wood.pub/sequencememoizer "1.1"]
     [org.clojure/tools.cli "0.2.2"]
+    [clojure-csv/clojure-csv "2.0.0-alpha2"]
   ]
   :main seqmemtest.core)
